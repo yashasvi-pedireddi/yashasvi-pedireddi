@@ -6,6 +6,7 @@
 - 📜 Philosphy-3: multi-tasking is a myth, focus on mastering one skill at a time.  
 - 🖥️ Work-experience: built end-to-end machine-learning prototypes.
 - 🤖 Programming Languages: C#, C++, C, Python
+- 🗺️ Currently exploring .net ecosystem
 - 📫 How to reach me: yashasvi.pedireddi@outlook.com
 
 <!---
